@@ -16,9 +16,9 @@ I am dedicated to continuous learning and passionate about contributing to the d
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats-9t0dundnc-alexs-projects-6f62f01b.vercel.app/api/top-langs/?username=AleksejsSviklis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksejsSviklis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats-9t0dundnc-alexs-projects-6f62f01b.vercel.app/api?username=AleksejsSviklis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksejsSviklis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AleksejsSviklis/AleksejsSviklis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
