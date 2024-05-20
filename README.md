@@ -10,13 +10,7 @@ I am dedicated to continuous learning and passionate about contributing to the d
 
 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Js Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="Ts Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Js Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="Ts Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 <!--
