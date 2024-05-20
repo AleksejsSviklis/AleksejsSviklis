@@ -2,9 +2,10 @@
 ---
 Java Developer specializing in Java and Spring Boot, with experience in backend web development. Additionally, I have worked with JavaScript, TypeScript, React, HTML, CSS, and have some experience with Python from earlier projects.
 
-I create content mainly focused on Java and backend development, but I also explore a variety of other topics beyond coding.
+I create content mainly focused on Java and backend development,, but I also explore a variety of other topics beyond coding.
 
 I am dedicated to continuous learning and passionate about contributing to the developer community.
+
 ---
 <!--
 **AleksejsSviklis/AleksejsSviklis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
